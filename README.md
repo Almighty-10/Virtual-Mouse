@@ -1,3 +1,5 @@
+#NOTE
+Make sure to have the required libraries (cv2, mediapipe, pyautogui) installed before running the code.
 # Virtual-Mouse
 
 
@@ -28,5 +30,4 @@
 
 This code combines computer vision techniques with the Mediapipe library to track the user's hand and perform actions based on the position of the index finger and thumb. It provides a basic virtual mouse control using hand gestures.
 
-#NOTE
-Make sure to have the required libraries (cv2, mediapipe, pyautogui) installed before running the code.
+
